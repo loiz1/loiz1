@@ -1,7 +1,7 @@
 👋 Mi nombre es Luis Lopez
 
-  [Mascota de Codédex!](https://www.codedex.io/@Loiz/30-nites-of-code)  
-  
+[Mascota de Codédex!](https://www.codedex.io/@Loiz/30-nites-of-code)  
+  ![@Loiz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Loiz)
 ===========================
 
 A continuacion algunas de las tecnologias que manejo:
