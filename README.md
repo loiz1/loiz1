@@ -1,4 +1,4 @@
-👋 Mi nombre es Luis Lopez
+👋 Mi nombre es Loizzz
 
 [Mascota de Codédex!](https://www.codedex.io/@Loiz/30-nites-of-code)  
   ![@Loiz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Loiz)
